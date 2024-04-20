@@ -1,0 +1,22 @@
+#root{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+.main{
+  width: 100vw;
+  height: 100vh;
+  background-color: orange;
+  display: flex;
+
+  flex-direction: column;
+}
+
+.cosa{
+  width: 50%;
+  background-color: orangered;
+}
